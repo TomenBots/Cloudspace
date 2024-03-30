@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node server/server.js",
     "prestart": "npm run build",
-    "build": "npm run build"
+    "build": "tsc"
   },
   "author": "Mrigank Krishan",
   "license": "ISC",
